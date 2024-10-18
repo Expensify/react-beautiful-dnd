@@ -32,6 +32,3 @@ cypress/screenshots/
 yarn-error.log
 npm-debug.log
 npm-debug.log.*
-
-# GitHub GPG Keys
-.github/workflows/OSBotify-private-key.asc
